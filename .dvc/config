@@ -1,0 +1,4 @@
+[core]
+    remote = mloptask6
+['remote "mloptask6"']
+    url = gdrive://18ZedrgspOpb2WhVPS4lvkQllB3F1enx-
